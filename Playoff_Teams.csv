@@ -1,0 +1,161 @@
+,team_name,away_wins,home_wins,away_losses,home_losses,total_goals_scored,total_goals_against,made_playoffs,total_wins,goal_diff
+0,New Jersey Devils,21,25,20,16,206,197,Yes,46,9
+1,Philadelphia Flyers,21,21,20,20,248,233,Yes,42,15
+2,Boston Bruins,20,21,21,20,212,222,Yes,41,-10
+3,New York Rangers,17,25,24,16,213,199,Yes,42,14
+4,Pittsburgh Penguins,21,26,20,15,247,216,Yes,47,31
+5,Detroit Red Wings,25,29,16,12,257,184,Yes,54,73
+6,San Jose Sharks,27,22,14,19,222,193,Yes,49,29
+7,Nashville Predators,18,23,23,18,230,229,Yes,41,1
+8,Ottawa Senators,21,22,20,19,261,247,Yes,43,14
+9,Montreal Canadiens,25,22,16,19,262,222,Yes,47,40
+10,Minnesota Wild,19,25,22,16,223,218,Yes,44,5
+11,Washington Capitals,20,23,21,18,242,231,Yes,43,11
+12,Anaheim Ducks,19,28,22,13,205,191,Yes,47,14
+13,Calgary Flames,21,21,20,20,229,227,Yes,42,2
+14,Colorado Avalanche,17,27,24,14,231,219,Yes,44,12
+15,Dallas Stars,22,23,19,18,242,207,Yes,45,35
+16,New Jersey Devils,23,28,18,13,244,209,Yes,51,35
+17,Philadelphia Flyers,20,24,21,17,264,238,Yes,44,26
+18,Boston Bruins,24,29,17,12,274,196,Yes,53,78
+19,New York Rangers,17,26,24,15,210,218,Yes,43,-8
+20,Pittsburgh Penguins,20,25,21,16,264,239,Yes,45,25
+21,Detroit Red Wings,24,27,17,14,295,244,Yes,51,51
+22,San Jose Sharks,21,32,20,9,257,204,Yes,53,53
+23,Vancouver Canucks,21,24,20,17,246,220,Yes,45,26
+24,Chicago Blackhawks,22,24,19,17,264,216,Yes,46,48
+25,Montreal Canadiens,17,24,24,17,249,247,Yes,41,2
+26,Washington Capitals,21,29,20,12,272,245,Yes,50,27
+27,St Louis Blues,18,23,23,18,233,233,Yes,41,0
+28,Anaheim Ducks,22,20,19,21,245,238,Yes,42,7
+29,Calgary Flames,19,27,22,14,254,248,Yes,46,6
+30,Columbus Blue Jackets,16,25,25,16,226,230,Yes,41,-4
+31,Carolina Hurricanes,19,26,22,15,239,226,Yes,45,13
+32,New Jersey Devils,21,27,20,14,222,191,Yes,48,31
+33,Philadelphia Flyers,17,24,24,17,236,225,Yes,41,11
+34,Los Angeles Kings,24,22,17,19,241,219,Yes,46,22
+35,Boston Bruins,21,18,20,23,206,200,Yes,39,6
+36,Pittsburgh Penguins,22,25,19,16,257,237,Yes,47,20
+37,Detroit Red Wings,19,25,22,16,229,216,Yes,44,13
+38,San Jose Sharks,24,27,17,14,264,215,Yes,51,49
+39,Nashville Predators,23,24,18,17,225,225,Yes,47,0
+40,Vancouver Canucks,19,30,22,11,272,222,Yes,49,50
+41,Chicago Blackhawks,23,29,18,12,271,209,Yes,52,62
+42,Ottawa Senators,18,26,23,15,225,238,Yes,44,-13
+43,Montreal Canadiens,19,20,22,21,217,223,Yes,39,-6
+44,Washington Capitals,24,30,17,11,318,233,Yes,54,85
+45,Phoenix Coyotes,21,29,20,12,225,202,Yes,50,23
+46,Buffalo Sabres,20,25,21,16,235,207,Yes,45,28
+47,Colorado Avalanche,19,24,22,17,244,233,Yes,43,11
+48,Philadelphia Flyers,25,22,16,19,259,223,Yes,47,36
+49,Los Angeles Kings,21,25,20,16,219,198,Yes,46,21
+50,Tampa Bay Lightning,21,25,20,16,247,240,Yes,46,7
+51,Boston Bruins,24,22,17,19,246,195,Yes,46,51
+52,New York Rangers,24,20,17,21,233,198,Yes,44,35
+53,Pittsburgh Penguins,24,25,17,16,238,199,Yes,49,39
+54,Detroit Red Wings,26,21,15,20,261,241,Yes,47,20
+55,San Jose Sharks,23,25,18,16,248,213,Yes,48,35
+56,Nashville Predators,20,24,21,17,219,194,Yes,44,25
+57,Vancouver Canucks,27,27,14,14,262,185,Yes,54,77
+58,Chicago Blackhawks,20,24,21,17,258,225,Yes,44,33
+59,Montreal Canadiens,20,24,21,17,216,209,Yes,44,7
+60,Washington Capitals,23,25,18,16,224,197,Yes,48,27
+61,Anaheim Ducks,21,26,20,15,239,235,Yes,47,4
+62,Phoenix Coyotes,22,21,19,20,231,226,Yes,43,5
+63,Buffalo Sabres,22,21,19,20,245,229,Yes,43,16
+64,New Jersey Devils,24,24,17,17,228,209,Yes,48,19
+65,Philadelphia Flyers,25,22,16,19,264,232,Yes,47,32
+66,Los Angeles Kings,18,22,23,19,194,179,Yes,40,15
+67,Boston Bruins,25,24,16,17,269,202,Yes,49,67
+68,New York Rangers,24,27,17,14,226,187,Yes,51,39
+69,Pittsburgh Penguins,22,29,19,12,282,221,Yes,51,61
+70,Detroit Red Wings,17,31,24,10,248,203,Yes,48,45
+71,San Jose Sharks,17,26,24,15,228,210,Yes,43,18
+72,Nashville Predators,22,26,19,15,237,210,Yes,48,27
+73,Vancouver Canucks,24,27,17,14,249,198,Yes,51,51
+74,Chicago Blackhawks,18,27,23,14,248,238,Yes,45,10
+75,Ottawa Senators,21,20,20,21,249,240,Yes,41,9
+76,Washington Capitals,16,26,25,15,222,230,Yes,42,-8
+77,St Louis Blues,19,30,22,11,210,165,Yes,49,45
+78,Phoenix Coyotes,20,22,21,19,216,204,Yes,42,12
+79,Florida Panthers,17,21,24,20,203,227,Yes,38,-24
+80,Philadelphia Flyers,18,24,23,17,236,235,Yes,42,1
+81,Los Angeles Kings,23,23,18,18,206,174,Yes,46,32
+82,Tampa Bay Lightning,21,25,20,16,240,215,Yes,46,25
+83,Boston Bruins,23,31,18,10,261,177,Yes,54,84
+84,New York Rangers,25,20,16,21,218,193,Yes,45,25
+85,Pittsburgh Penguins,23,28,18,13,249,207,Yes,51,42
+86,Detroit Red Wings,21,18,20,23,222,230,Yes,39,-8
+87,San Jose Sharks,22,29,19,12,249,200,Yes,51,49
+88,Chicago Blackhawks,19,27,22,14,267,220,Yes,46,47
+89,Montreal Canadiens,23,23,18,18,215,204,Yes,46,11
+90,Minnesota Wild,17,26,24,15,207,206,Yes,43,1
+91,St Louis Blues,24,28,17,13,248,191,Yes,52,57
+92,Anaheim Ducks,25,29,16,12,266,209,Yes,54,57
+93,Colorado Avalanche,26,26,15,15,250,220,Yes,52,30
+94,Dallas Stars,17,23,24,18,235,228,Yes,40,7
+95,Columbus Blue Jackets,21,22,20,19,231,216,Yes,43,15
+96,Tampa Bay Lightning,18,32,23,9,262,211,Yes,50,51
+97,New York Rangers,28,25,13,16,252,192,Yes,53,60
+98,Pittsburgh Penguins,20,23,21,18,221,210,Yes,43,11
+99,Detroit Red Wings,21,22,20,19,235,221,Yes,43,14
+100,Nashville Predators,19,28,22,13,232,208,Yes,47,24
+101,Vancouver Canucks,24,24,17,17,242,222,Yes,48,20
+102,Chicago Blackhawks,24,24,17,17,229,189,Yes,48,40
+103,Ottawa Senators,20,23,21,18,238,215,Yes,43,23
+104,Montreal Canadiens,24,26,17,15,221,189,Yes,50,32
+105,Minnesota Wild,24,22,17,19,231,201,Yes,46,30
+106,Washington Capitals,22,23,19,18,242,203,Yes,45,39
+107,St Louis Blues,24,27,17,14,248,201,Yes,51,47
+108,Anaheim Ducks,25,26,16,15,236,226,Yes,51,10
+109,New York Islanders,22,25,19,16,252,230,Yes,47,22
+110,Calgary Flames,22,23,19,18,241,216,Yes,45,25
+111,Winnipeg Jets,20,23,21,18,230,210,Yes,43,20
+112,Philadelphia Flyers,18,23,23,18,214,218,Yes,41,-4
+113,Los Angeles Kings,22,26,19,15,225,195,Yes,48,30
+114,Tampa Bay Lightning,21,25,20,16,227,201,Yes,46,26
+115,New York Rangers,19,27,22,14,236,217,Yes,46,19
+116,Pittsburgh Penguins,22,26,19,15,245,203,Yes,48,42
+117,Detroit Red Wings,19,22,22,19,211,224,Yes,41,-13
+118,San Jose Sharks,28,18,13,23,241,210,Yes,46,31
+119,Nashville Predators,18,23,23,18,228,215,Yes,41,13
+120,Chicago Blackhawks,21,26,20,15,235,209,Yes,47,26
+121,Minnesota Wild,17,21,24,20,216,206,Yes,38,10
+122,Washington Capitals,27,29,14,12,252,193,Yes,56,59
+123,St Louis Blues,25,24,16,17,224,201,Yes,49,23
+124,Anaheim Ducks,21,25,20,16,218,192,Yes,46,26
+125,New York Islanders,20,25,21,16,232,216,Yes,45,16
+126,Florida Panthers,22,25,19,16,239,203,Yes,47,36
+127,Dallas Stars,22,28,19,13,267,230,Yes,50,37
+128,Boston Bruins,21,23,20,18,234,212,Yes,44,22
+129,New York Rangers,27,21,14,20,256,220,Yes,48,36
+130,Pittsburgh Penguins,19,31,22,10,282,234,Yes,50,48
+131,San Jose Sharks,20,26,21,15,221,201,Yes,46,20
+132,Nashville Predators,17,24,24,17,240,224,Yes,41,16
+133,Chicago Blackhawks,24,26,17,15,244,213,Yes,50,31
+134,Ottawa Senators,22,22,19,19,212,214,Yes,44,-2
+135,Montreal Canadiens,23,24,18,17,226,200,Yes,47,26
+136,Minnesota Wild,22,27,19,14,266,208,Yes,49,58
+137,Washington Capitals,23,32,18,9,263,182,Yes,55,81
+138,St Louis Blues,22,24,19,17,235,218,Yes,46,17
+139,Anaheim Ducks,17,29,24,12,223,200,Yes,46,23
+140,Toronto Maple Leafs,19,21,22,20,251,242,Yes,40,9
+141,Calgary Flames,21,24,20,17,226,221,Yes,45,5
+142,Columbus Blue Jackets,22,28,19,13,249,195,Yes,50,54
+143,Edmonton Oilers,22,25,19,16,247,212,Yes,47,35
+144,New Jersey Devils,21,23,20,18,248,244,Yes,44,4
+145,Philadelphia Flyers,20,22,21,19,251,243,Yes,42,8
+146,Los Angeles Kings,22,23,19,18,239,203,Yes,45,36
+147,Tampa Bay Lightning,25,29,16,12,296,236,Yes,54,60
+148,Boston Bruins,22,28,19,13,270,214,Yes,50,56
+149,Pittsburgh Penguins,17,30,24,11,272,250,Yes,47,22
+150,San Jose Sharks,20,25,21,16,252,229,Yes,45,23
+151,Nashville Predators,25,28,16,13,267,211,Yes,53,56
+152,Minnesota Wild,18,27,23,14,253,232,Yes,45,21
+153,Washington Capitals,21,28,20,13,259,239,Yes,49,20
+154,Anaheim Ducks,18,26,23,15,235,216,Yes,44,19
+155,Toronto Maple Leafs,20,29,21,12,277,232,Yes,49,45
+156,Colorado Avalanche,15,28,26,13,257,237,Yes,43,20
+157,Columbus Blue Jackets,19,26,22,15,242,230,Yes,45,12
+158,Winnipeg Jets,20,32,21,9,277,218,Yes,52,59
+159,Vegas Golden Knights,22,29,19,12,272,228,Yes,51,44

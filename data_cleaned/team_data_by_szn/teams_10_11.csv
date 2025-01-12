@@ -1,0 +1,34 @@
+,team_name,away_wins,home_wins,away_losses,home_losses,total_goals_scored,total_goals_against,made_playoffs
+0,New Jersey Devils,16.0,22.0,25.0,19.0,174.0,209.0,No
+1,Philadelphia Flyers,25.0,22.0,16.0,19.0,259.0,223.0,Yes
+2,Los Angeles Kings,21.0,25.0,20.0,16.0,219.0,198.0,Yes
+3,Tampa Bay Lightning,21.0,25.0,20.0,16.0,247.0,240.0,Yes
+4,Boston Bruins,24.0,22.0,17.0,19.0,246.0,195.0,Yes
+5,New York Rangers,24.0,20.0,17.0,21.0,233.0,198.0,Yes
+6,Pittsburgh Penguins,24.0,25.0,17.0,16.0,238.0,199.0,Yes
+7,Detroit Red Wings,26.0,21.0,15.0,20.0,261.0,241.0,Yes
+8,San Jose Sharks,23.0,25.0,18.0,16.0,248.0,213.0,Yes
+9,Nashville Predators,20.0,24.0,21.0,17.0,219.0,194.0,Yes
+10,Vancouver Canucks,27.0,27.0,14.0,14.0,262.0,185.0,Yes
+11,Chicago Blackhawks,20.0,24.0,21.0,17.0,258.0,225.0,Yes
+12,Ottawa Senators,16.0,16.0,25.0,25.0,192.0,250.0,No
+13,Montreal Canadiens,20.0,24.0,21.0,17.0,216.0,209.0,Yes
+14,Minnesota Wild,20.0,19.0,21.0,22.0,206.0,233.0,No
+15,Washington Capitals,23.0,25.0,18.0,16.0,224.0,197.0,Yes
+16,St Louis Blues,15.0,23.0,26.0,18.0,240.0,234.0,No
+17,Anaheim Ducks,21.0,26.0,20.0,15.0,239.0,235.0,Yes
+18,Phoenix Coyotes,22.0,21.0,19.0,20.0,231.0,226.0,Yes
+19,New York Islanders,13.0,17.0,28.0,24.0,229.0,264.0,No
+20,Toronto Maple Leafs,19.0,18.0,22.0,23.0,218.0,251.0,No
+21,Florida Panthers,14.0,16.0,27.0,25.0,195.0,229.0,No
+22,Buffalo Sabres,22.0,21.0,19.0,20.0,245.0,229.0,Yes
+23,Calgary Flames,18.0,23.0,23.0,18.0,250.0,237.0,No
+24,Colorado Avalanche,14.0,16.0,27.0,25.0,227.0,288.0,No
+25,Dallas Stars,20.0,22.0,21.0,19.0,227.0,233.0,No
+26,Columbus Blue Jackets,17.0,17.0,24.0,24.0,215.0,258.0,No
+27,Winnipeg Jets,0.0,0.0,0.0,0.0,0.0,0.0,No
+28,Edmonton Oilers,12.0,13.0,29.0,28.0,193.0,269.0,No
+29,Vegas Golden Knights,0.0,0.0,0.0,0.0,0.0,0.0,No
+30,Carolina Hurricanes,18.0,22.0,23.0,19.0,236.0,239.0,No
+31,Arizona Coyotes,0.0,0.0,0.0,0.0,0.0,0.0,No
+32,Atlanta Thrashers,17.0,17.0,24.0,24.0,223.0,269.0,No
